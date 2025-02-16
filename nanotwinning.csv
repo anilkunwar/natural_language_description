@@ -1,0 +1,12 @@
+material,structure,composition,twin_type,grain_size,temperature
+Cu,FCC,"Pure Copper","{100}<110>",50 nm,Room Temp.
+Ni,FCC,"Nickel-Copper Alloys","{111}<111>",100 nm,500°C
+Pd,FCC,"Palladium-Copper Alloys","{100}<110>",200 nm,800°C
+Ni,FCC,"Nickel-Copper Alloys","{111}<111>",150 nm,550°C
+Cu,FCC,"Pure Copper","{100}<110>",250 nm,600°C
+Pd,FCC,"Palladium-Nickel Alloys","{100}<110>",300 nm,700°C
+Ni,FCC,"Nickel-Copper Alloys","{111}<111>",200 nm,500°C
+Cu,FCC,"Pure Copper","{100}<110>",350 nm,650°C
+Pd,FCC,"Palladium-Nickel Alloys","{100}<110>",250 nm,700°C
+Ni,FCC,"Nickel-Copper Alloys","{111}<111}",150 nm,550°C
+
